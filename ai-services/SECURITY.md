@@ -231,3 +231,11 @@ Logs store sensitive info → privacy violation
 - Improved protection against XSS and injection attacks
 - Enhanced application security posture
 - Ready for production-level improvements
+
+## AI Service Security
+
+- Input sanitization implemented
+- OWASP Top 10 risks considered
+- Rate limiting applied
+- Security headers added
+- OWASP ZAP scan performed
